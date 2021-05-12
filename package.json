@@ -39,7 +39,7 @@
     "moment-timezone": "^0.5.31",
     "mysql2": "^2.1.0",
     "node-cron": "^2.0.3",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "pug": "^3.0.0",
     "sequelize": "^6.3.0",
     "sequelize-cli": "^6.2.0"
